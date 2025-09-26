@@ -1,2 +1,2 @@
 # Pembuatan-program-simulasi
-Penjelasan proses pembuatan program simulasi
+Penjelasan singkat proses pembuatan program simulasi
